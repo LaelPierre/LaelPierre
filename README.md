@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👯 I’m looking to collaborate on **beginner project on rails or react**
+- 👯 I’m looking to collaborate on **beginner project on frontend project**
 
-- 👨‍💻 All of my projects are available at [in process](in process)
+- 👨‍💻 All of my projects are available on my Github account
 
-- 💬 Ask me about **rails, JS, ruby**
+- 💬 Ask me about **html, css, rails, JS, ruby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
